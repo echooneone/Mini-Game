@@ -1,0 +1,22 @@
+/******************************************
+ * 
+ * FileName:     #SCRIPTNAME#
+ * CompanyName:  #CompanyName#
+ * Author:       #Author#
+ * CreateTime:   #CreateTime#
+ * UnityVersion: #UnityVersion#
+ * Version：     #Version#
+ * Description:
+ * 
+******************************************/ 
+using System.Collections;
+using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : SerializedMonoBehaviour
+{
+        #NOTRIM#
+}
+#ROOTNAMESPACEEND#

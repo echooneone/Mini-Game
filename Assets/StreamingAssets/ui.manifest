@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 67176449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15aec89bd911092760e177db4f7e6f28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtRes/2D RPG Simple Sprites/UI/Blank_Transparent.png
+Dependencies: []

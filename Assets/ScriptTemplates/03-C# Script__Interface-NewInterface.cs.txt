@@ -1,0 +1,21 @@
+/******************************************
+ * 
+ * FileName:     #SCRIPTNAME#
+ * CompanyName:  #CompanyName#
+ * Author:       #Author#
+ * CreateTime:   #CreateTime#
+ * UnityVersion: #UnityVersion#
+ * Version：     #Version#
+ * Description:
+ * 
+******************************************/ 
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public interface #SCRIPTNAME#
+{
+        #NOTRIM#
+}
+#ROOTNAMESPACEEND#
